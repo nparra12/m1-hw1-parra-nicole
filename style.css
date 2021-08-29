@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+nav{
+    background-color: navy;
+    color: #ffffff;
+    padding: 2%;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+footer{
+    background-color: #d3cfcf;
+    text-align: center;
+    padding: 3%;
+    font-size: 1.2em;
+}
