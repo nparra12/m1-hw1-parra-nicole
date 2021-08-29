@@ -19,7 +19,10 @@ nav{
     justify-content: space-evenly;
 }
 
-
+main{
+    text-align: center;
+    padding: 20%;
+}
 
 footer{
     background-color: #d3cfcf;
@@ -27,3 +30,7 @@ footer{
     padding: 3%;
     font-size: 1.2em;
 }
+
+#footer {
+    position: relative;
+  }
